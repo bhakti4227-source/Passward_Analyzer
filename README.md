@@ -81,8 +81,8 @@ Password-Security-System/
 
 ### Step 1: Clone the Repository
 
-```bash
-git clone YOUR_REPOSITORY_URL
+```bash 
+git clone https://github.com/bhakti4227-source/Passward_Analyzer
 ```
 
 ### Step 2: Open the Project Directory
@@ -144,7 +144,9 @@ The main objective of this project is to demonstrate practical implementation of
 
 ## 👨‍💻 Author
 
-**Jaswant Yadav**
+**Jaswant Yadav,**
+**Vedhanshi and**
+**Bhakti**
 
 B.Tech – Artificial Intelligence & Machine Learning
 
